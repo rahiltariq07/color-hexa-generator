@@ -55,7 +55,7 @@ nav {
 h1 {
   font-size: 3rem;
   margin-bottom: 1rem;
-  color: #1C1678;
+  color: #d4d3e0;
 }
 
 .nav-h1 {
@@ -121,7 +121,7 @@ hr {
   outline: none;
   border-radius: 3px;
   cursor: pointer;
-  box-shadow: 1px 1px 1px lightblue;
+  box-shadow: 1px 1px 1px rgb(1, 57, 75);
 }
 
 button.subtract {
