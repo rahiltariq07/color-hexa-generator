@@ -1,2 +1,2 @@
 # color-hexa-generator
-creating color hexa generator using JavaScript
+creating color hex generator using JavaScript
